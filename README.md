@@ -1,5 +1,7 @@
 # ChatGPT-Demo
-**note: 该项目所有代码（包括这个README）皆由ChatGPT实现**，代码基于https://github.com/wangyunjeff/EasyChatGPT-API，重写了前端和部分逻辑。
+**note: 该项目所有代码（包括这个README）皆由ChatGPT实现**，代码基于https://github.com/wangyunjeff/EasyChatGPT-API
+
+，重写了前端和部分逻辑。
 
 在线访问：[chatGPT](http://josephgu.pythonanywhere.com/)
 
